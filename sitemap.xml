@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://insightcenternoodles.github.io/Orzo/</loc>
+         <lastmod>2023-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://insightcenternoodles.github.io/Orzo/basic_usage/</loc>
+         <lastmod>2023-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://insightcenternoodles.github.io/Orzo/contributing/</loc>
+         <lastmod>2023-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://insightcenternoodles.github.io/Orzo/install/</loc>
+         <lastmod>2023-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://insightcenternoodles.github.io/Orzo/noodles/</loc>
+         <lastmod>2023-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
